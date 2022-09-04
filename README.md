@@ -1,8 +1,8 @@
 # ☕️ Hello World, I'm Onofre! ☕️
 
-- Cursando Ciência da Computação
-- Atualmente trabalho como Analista de Sistemas
-- Minhas outras paixões além da computação, são: musica, jogar video game e filme/série
+- Currently coursing a bachelor's degree in Computer Science.
+- Currently working as a developer and a consultant.
+- My other passions beyond computing is music, playing video games and movie/serie.
 
 
 ## Stacks
